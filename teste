@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "Produto A",
+        "marca": "Marca A",
+        "categoria": "Categoria A",
+        "preço": 100.00,
+        "quantidade_em_estoque": 50,
+        "disponível_para_pronta_entrega": true
+    },
+    {
+        "id": 2,
+        "nome": "Produto B",
+        "marca": "Marca B",
+        "categoria": "Categoria B",
+        "preço": 200.00,
+        "quantidade_em_estoque": 30,
+        "disponível_para_pronta_entrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Produto C",
+        "marca": "Marca C",
+        "categoria": "Categoria C",
+        "preço": 300.00,
+        "quantidade_em_estoque": 20,
+        "disponível_para_pronta_entrega": true
+    }
+]
